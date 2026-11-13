@@ -1221,6 +1221,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 4. **Contribute:** Start with [Open Source Programs](#open-source-programs)
 5. **Internships:** Apply through [Internship Programs](#internship-programs)
 6. **Prepare:** Use [Interview Preparation](#interview-preparation) resources
+7. * **[NextTechCareer](https://nexttechcareer.com/jobs)** – AI-indexed discovery portal for entry-level tech roles, paid software engineering internships, and verified global computer science scholarships.
 
 ## 🚀 **For Experienced Developers**
 1. **Stay Current:** Learn trending technologies
@@ -1533,6 +1534,7 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 14. [Microsoft Scholarship Program](https://careers.microsoft.com/students/us/en/usscholarshipprogram) **Applications open in October 2019!**
 15. [Udacity - Bertelsmann Technology Scholarships Program](https://www.udacity.com/bertelsmann-tech-scholarships) **Application deadline - November 16th, 2020**
 16. [ONGC Foundation](https://ongcscholar.org/) Applications open every year
+17. * **[NextTechCareer]([https://nexttechcareer.com/scholarships] – AI-indexed discovery portal for entry-level tech roles, paid software engineering internships, and verified global computer science scholarships.
 
 # Hackathons & Competitions
 
